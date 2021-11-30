@@ -18,6 +18,7 @@ Author URI: https://cemreworks.com
     z-index: 9;
     padding-left: 10px;
     width: 100%;
+    color:black;
 }
 
 
@@ -1574,27 +1575,26 @@ li.address-section .fa{
 * ==========================================
 */
 .main-footer {
-  padding: 50px;
+  padding:50px;
+  background-color:#2E2E2E;
+  height:300px;
+
+ 
 }
 
 .footer-social li:first-child {
   margin-left: 0px;
+
 }
 
 .footer-social li {
   float: left;
-  margin-left: 10px;
+  margin-left: 20px;
+  color: white;
+  margin-top:100px;
 }
 
-.single-widget h3{
-    font-size: 18px;
-    font-family: "Roboto";
-    color: rgb(51, 51, 51);
-    line-height: 1.4;
-    text-align: left;
-    font-weight: bold;
-    margin-bottom: 10px;
-}
+
 
 
 
@@ -1608,40 +1608,26 @@ li.address-section .fa{
 }
 
 
-.single-widget-description {
-  font-family: 'Poppins';
-  font-size: 14px;
-  line-height: 1;
-  color: #666666;
-}
+
 
 .footer-section .footer-icon {
   width: 25px;
   height: 25px;
-  border-radius: 10px solid #83ac00;
-  border: 2px solid #83ac00;
-  border-radius: 15px;
+  
+
   text-align: center;
 }
 
-.footer-section .footer-icon::after{
-  content: ' \25CF';
-  font-size: 10px;
-  text-align: center;
-  justify-content: center;
-  width: 2px;
-  height: 2px;
-  margin-top: 0px;
-  padding-top: 0px;
-  color: #83ac00;
-}
+
 li.footer-section{
   margin-bottom: 12px;
+
 }
 
 li.footer-section a:hover p,
 li.footer-section a:focus p{
-  color: #23527c;
+  
+ color: white;
 }
 
 /*

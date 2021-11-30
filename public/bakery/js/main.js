@@ -51,7 +51,7 @@
         pagination: true,
         autoHeight: false,
 //        autoHeightClass: 'owl-height',
-        navText : ["<img src='./img/slider/rightarrow.png' />","<img src='./img/slider/leftarrow.png' />"],
+        navText : ["<img src='./bakery/img/slider/rightarrow.png' />","<img src='./bakery/img/slider/leftarrow.png' />"],
         responsive:{
             0:{
                 items:1

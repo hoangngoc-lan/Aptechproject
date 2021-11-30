@@ -24,12 +24,9 @@
     <!-- Page Content -->
     @yield('content')
     <!-- /#page-wrapper -->
-    <footer class="footer-area">
-            <div class="container main-footer">
+  
     @include('bakery.layout.footer')
-     </div>
-        </footer>
-
+     
 </div>
 <!-- /#wrapper -->
 

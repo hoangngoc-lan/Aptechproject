@@ -1,7 +1,7 @@
- <header class="top">
+<header class="top">
                   <div class="fixedArea">
-          <div class="row">
-            <div class="col-md-12 col-sm-12 col-xs-12 noPadding">
+                    <div class="row">
+                        <div class="col-md-12 col-sm-12 col-xs-12 noPadding">
                             <div class="content-wrapper one">
                                 <!-- Main Menu Start -->
                                 <!-- Navbar-->
@@ -39,31 +39,18 @@
                                             </div>
                                                      
                                             <!-- Collect the nav links, forms, and other content for toggling -->
-                                            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                                            <ul class="nav navbar-nav navbar-right navBar">
-                                                    <li class="nav-item"><a href="#section0" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Home <span class="sr-only">(current)</span></a></li>
-                                                    <li class="nav-item"><a href="#section1" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Offers</a></li>
-                                                    <li class="nav-item"><a href="#section2" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">About</a></li>
-                                                    <li class="nav-item"><a href="#section3" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Portfolio</a></li>
-                                                    <li class="nav-item"><a href="#section4" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Testimonial</a></li>
-                                                    <li class="nav-item"><a href="#section5" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Blog</a></li>
-                                                    <li class="nav-item"><a href="#section6" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Contact</a></li>
-                                                    <li class="nav-item"><a href="#section7" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Address</a></li>
-
-
-                                                </ul>
-                                            </div>
+                                           
                                         </div>
                                     </nav>
                                 </header>
                                 <!-- Main Menu End -->
                             </div>
-            </div>
+                        </div>
                   </div>
-      </div>
-    </header>
-    <!-- Header Area End -->
-    <!-- Section0 Area Start -->
+            </div>
+        </header>
+        <!-- Header Area End -->
+        <!-- Section0 Area Start -->
         <section id="section0" class="slider-area"> 
             <div class="main-slider owl-theme owl-carousel"> 
                 <!-- Start Slingle Slide -->
@@ -79,12 +66,24 @@
                                         <div class="slide-content-wrapper text-center">
                                             <div class="slide-content">
                                                 <img class="classic" src="/bakery/img/logo/cemrebakerylogo.png">
-                                                <h3>BAKERY MAKES </h3>
-                                                <h2>A Taste Of  The Good Life</h2>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis leo vitae lacinia congue.</p>
+                                                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                                            <ul class="nav navbar-nav navbar-right navBar">
+                                                    <li class="nav-item"><a href="#section0" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Home <span class="sr-only">(current)</span></a></li>
+                                                    <li class="nav-item"><a href="#section1" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Offers</a></li>
+                                                    <li class="nav-item"><a href="#section2" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">About</a></li>
+                                                    <li class="nav-item"><a href="#section3" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Portfolio</a></li>
+                                                    <li class="nav-item"><a href="#section4" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Testimonial</a></li>
+                                                    <li class="nav-item"><a href="#section5" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Blog</a></li>
+                                                    <li class="nav-item"><a href="#section6" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Contact</a></li>
+                                                    <li class="nav-item"><a href="#section7" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Address</a></li>
 
-                                                <a class="default-btn" href="about.html">Learn more</a>
+
+                                                </ul>
+                                            </div>
+
+                                                <a class="default-btn" href="/bakery/about.html">Learn more</a>
                                                 <img class="classic" src="/bakery/img/new/icon.png">
+
 
                                             </div>
                                         </div>
@@ -109,7 +108,7 @@
                                                 <h2>A Taste Of  The Good Life</h2>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis leo vitae lacinia congue.</p>
                                                 <a class="default-btn" href="about.html">Learn more</a>
-                                                <img class="classic" src="/bakery/img/new/icon.png">
+                                                <img class="classic" src="/bakery/img/new/icon.png">/bakery/
 
                                             </div>
                                     </div>
@@ -133,7 +132,7 @@
                                                 <h2>A Taste Of  The Good Life</h2>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis leo vitae lacinia congue.</p>
                                                 <a class="default-btn" href="about.html">Learn more</a>
-                                                <img class="classic" src="/bakery/img/new/icon.png">
+                                                <img class="classic" src="/bakery//new/icon.png">
 
                                             </div>
                                     </div>
