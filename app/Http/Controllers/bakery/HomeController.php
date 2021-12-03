@@ -10,4 +10,7 @@ class HomeController extends Controller
     public function home(){
         return view('bakery.test.demo');
     }
+    public function admin(){
+        return view('admin.demo.test');
+    }
 }
