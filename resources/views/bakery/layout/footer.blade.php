@@ -21,7 +21,7 @@
                 </div>
                 <div class="row " style="margin-top: 50px;">
                        <div class="col-md-4"></div>
-                   <div class="col-md-6 "><p style="color:white;margin-left:65px;" >Copyright © Bookie WordPress Theme</p></div>
+                   <div class="col-md-6 "><p style="color:white;margin-left:65px;" >Copyright © 2021  by <a href="#"> C2105LM-Team1</a></p></div>
                       
                 </div>
             </div>   
