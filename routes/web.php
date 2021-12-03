@@ -10,3 +10,4 @@ Route::get('/', function () {
      
 });
 Route::get('home',[HomeController::class,'home']);
+Route::get('admin',[HomeController::class , 'admin']);
