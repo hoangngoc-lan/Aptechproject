@@ -7,10 +7,16 @@ use Illuminate\Http\Request;
 
 class HomeController extends Controller
 {
-    public function home(){
+    public function home()
+    {
         return view('bakery.test.demo');
     }
-    public function admin(){
+    public function admin()
+    {
         return view('admin.demo.test');
+    }
+    public function signin()
+    {
+        return view('loginform.view.signin');
     }
 }
