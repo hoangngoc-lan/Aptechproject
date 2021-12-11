@@ -3,6 +3,13 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\bakery\HomeController;
 use App\Http\Controllers\login\LoginController;
+use App\Http\Controllers\cart\cart_controller;
+
+Route::prefix('cart')->group(function () {
+	Route::get('/',[cart_controller::class,'cart'])->name('cart');
+	Route::post('/update/{id}',[cart_controller::class,'cart_update'])->name('cart_update');
+	Route::post('/order',[cart_controller::class,'cart_order'])->name('cart_order');
+});
 
 Route::get('/', [HomeController::class, 'home'])->name('home');
 Route::get('ad', [HomeController::class, 'admin']);
