@@ -12,7 +12,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Hash;
 
 
-class HomeController extends Controller
+class cart_controller extends Controller
 {
     public function cart(Request $request){
         if (!$request->session()->has('cart')) {
