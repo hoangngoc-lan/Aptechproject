@@ -6,6 +6,8 @@
         <script src="/bakery/js/owl.carousel.min.js"></script>
         <script src="/bakery/js/jquery.nicescroll.min.js"></script>
         <script src="/bakery/js/main.js"></script>
+        <script src="/bakery/js/slick.min.js"></script>
+         <script src="/bakery/js/search.js"></script>
         <script async defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDyIMWhs-crjT0yhctbRjfJFq75FlEhSzE&callback=initMap">
         </script>

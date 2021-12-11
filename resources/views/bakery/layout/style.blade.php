@@ -11,4 +11,7 @@
   <link rel="stylesheet" href="/bakery/css/style.css">
   <link rel="stylesheet" href="/bakery/css/animate.css">
   <link rel="stylesheet" href="/bakery/css/responsive.css">
+  <link rel="stylesheet" href="/bakery/css/main.css">
+  <link rel="stylesheet" href="/bakery/css/style-slick.css">
+  <link rel="stylesheet" href="/bakery/css/search.css">
   <script src="/bakery/js/vendor/modernizr-2.8.3.min.js"></script>
