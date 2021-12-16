@@ -31,7 +31,7 @@
                                                     <div class="col-md-7 col-sm-7 col-xs-7">
                                                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                                                             <ul class="nav navbar-nav navbar-right">
-                                                                <li class="nav-item"><a href="#section0" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">HOME <span class="sr-only">(current)</span></a></li>
+                                                                <li class="nav-item"><a href="{{ route('home') }}" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">HOME <span class="sr-only">(current)</span></a></li>
                                                                 <li class="nav-item"><a href="#section1" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">BOOKSTORE</a></li>
 <li class="nav-item"><a href="#section2" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">BLOG</a></li>
                                                                 <li class="nav-item"><a href="#section3" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Author</a></li>   

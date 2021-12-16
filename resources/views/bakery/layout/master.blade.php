@@ -23,7 +23,7 @@
 
     <!-- Page Content -->
     
-    @include('bakery.layout.content')
+    @yield('content')
     <!-- /#page-wrapper -->
   
     @include('bakery.layout.footer')
