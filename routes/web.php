@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\bakery\HomeController;
-use App\Http\Controllers\login\LoginController;
+use App\Http\Controllers\account\LoginController;
 use App\Http\Controllers\cart\cart_controller;
 use App\Http\Controllers\bakery\DetailsController;
 
